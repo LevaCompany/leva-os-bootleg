@@ -1,0 +1,3 @@
+command(fault){
+    mainer = true;
+}
